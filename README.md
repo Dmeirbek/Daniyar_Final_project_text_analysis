@@ -1,6 +1,6 @@
-# Daniyar_Final_project_text_analysis
-Abstract: Narratives of the Latin Script Transition in Kazakhstan
-Background:
+# Narratives of the Latin Script Transition in Kazakhstan
+**Abstract:** 
+
 This research explores Kazakhstan's transition from Cyrillic to a Latin-based script. It traces its century-long journey marked by various script changes, Soviet influence, and the nation's quest for a global identity.
 Preliminary research has revealed a significant disparity in the coverage of Kazakhstan's transition to the Latin script, with Kazakh news sources displaying higher interest than Western media. Notably, primary Russian news sources had no reliable coverage of this topic, prompting a revision of the research question. The updated inquiry seeks to understand how the Latin script transition is represented in online news sources, encompassing both Kazakh and foreign perspectives. The hypothesis posits that online news sources, despite potential variations, are likely to predominantly portray Kazakhstan's script transition positively. This optimistic representation may emphasize contributions to economic development, reinforcing Kazakh identity, greater independence, technological adaptability, and global integration. The hypothesis acknowledges the possibility of expressions conveying unfavourable characterizations during the transitional process.
 The research employs web scraping, data cleaning, sentiment analysis, and visualization techniques. Data is gathered from diverse sources, and sentiment analysis captures varied portrayals of the script transition in news outlets.
